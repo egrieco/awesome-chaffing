@@ -17,6 +17,7 @@ A list of awesome resources to chaff (or poison) surveillance tech with garbage 
 
 ## Articles and Papers
 
+* [Chaffing and Winnowing: Confidentiality without Encryption (PDF)](papers/Chaffing-and-Winnowing-Riv98a.pdf) ([original source](http://people.csail.mit.edu/rivest/pubs/Riv98a.pdf)) - This is the paper from which I've taken the name and inspiration for this repo.
 * [How to poison the data that Big Tech uses to surveil you | MIT Technology Review](https://www.technologyreview.com/2021/03/05/1020376/resist-big-tech-surveillance-data/)
 * [The test of AdNauseam. | MIT Technology Review](https://www.technologyreview.com/2021/01/06/1015784/adsense-google-surveillance-adnauseam-obfuscation/)
 * [\[1808.00659\] Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/abs/1808.00659)
