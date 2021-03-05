@@ -2,6 +2,12 @@
 
 A list of awesome resources to chaff (or poison) surveillance tech with garbage data.
 
+## Canonical Sources
+
+* [Keybase](keybase://team/securityidentity/awesome-chaffing)
+* [GitLab](https://gitlab.com/egrieco/awesome-chaffing)
+* [GitHub](https://github.com/egrieco/awesome-chaffing)
+
 ## Tools
 
 * [TrackMeNot](https://trackmenot.io/) ([GitHub source](https://github.com/vtoubiana/TrackMeNot)): An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile(s) and registers your discontent with surreptitious tracking.
