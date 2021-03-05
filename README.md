@@ -8,3 +8,9 @@ A list of awesome resources to chaff (or poison) surveillance tech with garbage 
 * [AdNauseam](https://adnauseam.io/) ([GitHub source](https://github.com/dhowe/AdNauseam)): Clicking Ads So You Don't Have To
 * [XPrivacyLua](https://lua.xprivacy.eu/) ([GitHub source](https://github.com/M66B/XPrivacyLua)): Really simple to use privacy manager
 * [fake_contacts](https://github.com/BillDietrich/fake_contacts): Create fake phone contacts, to do data-poisoning.
+
+## Articles and Papers
+
+* [How to poison the data that Big Tech uses to surveil you | MIT Technology Review](https://www.technologyreview.com/2021/03/05/1020376/resist-big-tech-surveillance-data/)
+* [The test of AdNauseam. | MIT Technology Review](https://www.technologyreview.com/2021/01/06/1015784/adsense-google-surveillance-adnauseam-obfuscation/)
+* [\[1808.00659\] Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/abs/1808.00659)
