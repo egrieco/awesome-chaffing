@@ -14,6 +14,7 @@ A list of awesome resources to chaff (or poison) surveillance tech with garbage 
 * [AdNauseam](https://adnauseam.io/) ([GitHub source](https://github.com/dhowe/AdNauseam)): Clicking Ads So You Don't Have To
 * [XPrivacyLua](https://lua.xprivacy.eu/) ([GitHub source](https://github.com/M66B/XPrivacyLua)): Really simple to use privacy manager
 * [fake_contacts](https://github.com/BillDietrich/fake_contacts): Create fake phone contacts, to do data-poisoning.
+* [Track This](https://trackthis.link/) ([Why this exists](https://blog.mozilla.org/firefox/hey-advertisers-track-this/)): A new kind of Incognito
 
 ## Articles and Papers
 
